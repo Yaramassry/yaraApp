@@ -1,0 +1,12 @@
+.dropdownli {
+    background-color: #d7e1f3;
+   
+    min-width:25vh;
+    
+  
+   
+    align-items: center;
+    
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
